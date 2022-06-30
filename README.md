@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Christos Anagnostopoulos [ @ChrisAnag ]
+- 👋 Hi, I’m Christos Anagnostopoulos [ @chrisanag ]
 - 👀 I’m interested in Javascript
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently coding in ReactJS
 - 📫 How to reach me is complicated
 
 <!---
