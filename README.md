@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Christos Anagnostopoulos [ @chrisanag ]
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently coding in ReactJS
-- 📫 How to reach me is complicated
 
 <!---
 ChrisAnag/ChrisAnag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
