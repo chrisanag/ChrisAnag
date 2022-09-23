@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Christos Anagnostopoulos [ @chrisanag ]
-- 👀 I’m interested in Javascript
+- 👀 I’m interested in JavaScript
 - 🌱 I’m currently coding in ReactJS
 
 <!---
