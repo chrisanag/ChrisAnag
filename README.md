@@ -1,4 +1,4 @@
-- 👋 Hi there, Christos here
+- 👋 Hi there, Christos here, a software engineer that enjoys slack memes more than he should
 - 👀 TypeScript used to feel like homework, but now I’m realizing it’s more like cheating (I even started writing types... voluntarily)
 - 🌱 Currently coding in ReactJS (meaning: Casually scrolling through React docs while pretending to be deep in thought)
 
